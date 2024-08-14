@@ -1,6 +1,3 @@
-streamlit
-plotly
-pandas
 
 import streamlit as st
 import pandas as pd
